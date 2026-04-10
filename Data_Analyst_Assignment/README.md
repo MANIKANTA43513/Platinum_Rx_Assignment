@@ -1,4 +1,4 @@
-# PlatinumRx Data Analyst Assignment
+# HealthCare-Data-Analysis
 
 ## Repository Structure
 
